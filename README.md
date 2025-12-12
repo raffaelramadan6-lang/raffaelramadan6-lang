@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with understanding Github and its many functions, what use does Github have for me
 - 💬 Ask me about ...
 - 📫 How to reach me: you can reach me on Linkedin: linkedin.com/in/raffael-ramadan-8704a8336 
-- ⚡ Fun fact: I have passed my CompTia A+, Network+ and Security + this year and im looking to venture into IT now and eventually into cyber secuirty or Cloud Computing in the near future/ Wish me luck
+- ⚡ Fun fact: I have passed my CompTia A+, Network+ and Security + this year and im looking to venture into IT now and eventually into cyber security or Cloud Computing in the near future/ Wish me luck
 -->
